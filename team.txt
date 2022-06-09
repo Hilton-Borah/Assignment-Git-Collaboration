@@ -3,7 +3,7 @@ Team Name:- "HARD CODERS"
 Team members Name:-
 
 i. Pankaj More:- Login page
-ii. Hilton Kumar Borah
+ii. Hilton Kumar Borah:- Merge everything
 iii. Manish Kumar Nishad:- Signup page
 iv. Om Ratna:- Nav Bar
 v. Bhujang Chandrapal Devshette
